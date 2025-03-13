@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hey there! I've got 2.5 years of experience as a Full Stack Developer. I love diving into both frontend and backend work, and I'm always up for learning new things. I also have a good handle on DevOps practices and ETL pipelines. Let's build something awesome together!
+Hey there! I've got 3 years of experience as a Full Stack Developer. I love diving into both frontend and backend work, and I'm always up for learning new things. I also have a good handle on DevOps practices and ETL pipelines. Let's build something awesome together!
 
 
 - 🔭 I’m currently working on **Innovative AI and machine learning projects**
